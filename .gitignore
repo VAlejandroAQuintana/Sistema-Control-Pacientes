@@ -1,4 +1,5 @@
 .gradle
+
 <<<<<<< HEAD
 **/build/
 !src/**/build/
