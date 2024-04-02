@@ -1,6 +1,4 @@
 .gradle
-
-<<<<<<< HEAD
 **/build/
 !src/**/build/
 
@@ -63,4 +61,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
->>>>>>> 42db26b (Init git repositori)
