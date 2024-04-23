@@ -1,0 +1,104 @@
+18:32:01.178 [main] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia logInMedico()
+18:32:09.199 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:09.199 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:09.789 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuariosqluser
+18:32:09.789 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+18:32:10.990 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:10.990 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:11.021 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuariosqluser
+18:32:11.021 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+18:32:12.861 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:12.861 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:12.889 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuariosqluser
+18:32:12.889 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+18:32:36.953 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:36.953 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:36.968 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioroot
+18:32:36.968 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+18:32:38.060 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:38.060 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:38.076 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioroot
+18:32:38.076 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+18:32:39.236 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:39.236 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:39.268 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioroot
+18:32:39.269 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+18:32:39.416 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:39.416 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:39.432 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioroot
+18:32:39.432 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+18:32:39.585 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:39.585 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:39.600 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioroot
+18:32:39.600 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+18:32:40.061 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:40.061 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:32:40.093 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioroot
+18:32:40.093 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+18:54:33.436 [main] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia logInMedico()
+18:54:52.445 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:54:52.445 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+18:54:53.115 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioroot
+18:54:53.123 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:22:02.928 [main] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia logInMedico()
+20:22:09.833 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:22:09.833 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:22:10.326 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuario
+20:22:10.326 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Ingresa información del usuario para el inicio de sesión
+20:22:10.330 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:22:10.330 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: No se puede iniciar sesión con el usuario:
+20:22:26.332 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:22:26.332 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:22:26.361 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuario
+20:22:26.361 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Ingresa información del usuario para el inicio de sesión
+20:22:26.361 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:22:26.361 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: No se puede iniciar sesión con el usuario:
+20:22:45.360 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:22:45.360 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:22:45.372 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuariosqluser
+20:22:45.381 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:22:45.392 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:22:45.432 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia sesión por: sqluser
+20:22:45.432 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:22:45.432 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: No se puede iniciar sesión con el usuario:sqluser
+20:29:34.019 [main] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia logInMedico()
+20:29:41.578 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:29:41.578 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:29:42.103 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuariouser
+20:29:42.122 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:29:42.131 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:29:42.150 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia sesión por: user
+20:29:42.150 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:29:42.150 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: No se puede iniciar sesión con el usuario:user
+20:34:02.337 [main] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia logInMedico()
+20:34:14.737 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:34:14.737 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:34:15.301 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuariosqluser
+20:34:15.309 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:34:45.793 [main] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia logInMedico()
+20:34:52.517 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:34:52.517 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:34:52.894 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioroot
+20:34:52.901 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:34:54.775 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:34:54.775 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:34:54.807 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioroot
+20:34:54.811 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:36:47.145 [main] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia logInMedico()
+20:36:50.454 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:36:50.455 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:36:50.991 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioadmin
+20:36:51.002 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:36:58.982 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:36:58.982 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:36:59.004 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioadmin
+20:36:59.005 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:41:36.518 [main] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia logInMedico()
+20:41:43.975 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:41:43.976 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:41:44.353 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioadmin
+20:41:44.410 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
+20:41:45.469 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:41:45.469 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ValidarAcceso()
+20:41:45.492 [AWT-EventQueue-0] INFO  Vista.loginInMedico - Usuario: Actividad: Se inicia ingresa: usuarioadmin
+20:41:45.506 [AWT-EventQueue-0] INFO  Controlador.controladorBD - SistemaLogger.log
